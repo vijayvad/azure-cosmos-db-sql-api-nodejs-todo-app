@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 const CosmosClient = require('@azure/cosmos').CosmosClient
 const debug = require('debug')('todo:taskDao')
 
